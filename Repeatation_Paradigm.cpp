@@ -1,6 +1,6 @@
-# HackerEarth Problem
+// HackerEarth Problem
 
-''' Question:
+/* Question:
 The Repetition Paradigm
 You will be given threee numbers k, a and, b. You have to perform the below operations k times:
 
@@ -17,9 +17,9 @@ INPUT FORMAT:
     Second line contains two integers a & b.
 
 OUTPUT FORMAT:
-    Print a and b with space between them.
+    Print a and b with space between them. */
     
-# Program Code
+// Program Code
 
 #include<iostream>
 using namespace std;
