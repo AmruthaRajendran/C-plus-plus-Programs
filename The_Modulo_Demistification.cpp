@@ -28,20 +28,20 @@ int main()
 	int x,y,n;
 	for(int i=0;i<t;i++)
 	{
-		cin>>x>>y>>n;
-		for(int k=n;k>-1;k--)
-		{
-      if(x>n && y==0)
-      {
-        cout<<0<<"\n";
-        break;
-      }
-			if(k%x == y)
-			{
-				 cout<<k<<"\n";
-			   break;
-			}			  
-		}
+	   cin>>x>>y>>n;
+	   for(int k=n;k>-1;k--)
+	   {
+             if(x>n && y==0)
+             {
+                cout<<0<<"\n";
+                break;
+             }
+	     if(k%x == y)
+	     {
+		cout<<k<<"\n";
+	        break;
+	     }			  
+	   }
 	}
 	return(0);
 }
