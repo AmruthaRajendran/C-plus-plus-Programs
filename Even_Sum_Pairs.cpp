@@ -30,8 +30,8 @@ int main()
 	{
 		for(int j=i+1;j<n;j++)
 		{
-			if((arr[i]+arr[j])%2 == 0)  // We have to find the even sum ie; sum is divisible by 2. So to find all pairs we take two loops and check all sums;whether it is even or not.
-			  count++;
+			if((arr[i]+arr[j])%2 == 0)  // We have to find the even sum ie; sum is divisible by 2. So to find all pairs we take two loops and check all sums;
+			  count++;                  // whether it is even or not.
 		}
 	}
 	cout<<count;
