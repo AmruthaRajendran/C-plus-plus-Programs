@@ -1,6 +1,6 @@
-\\ HackerEarth Problem
+// HackerEarth Problem
 
-\* Question:
+/* Question:
 You are given an integer N and N integers from A0,..,An-1.
 Calculate the number of pairs that will give an even sum.
 
@@ -15,7 +15,7 @@ CONSTRAINTS:
     N <= 30000
     Ai <=1000000 */
     
-\\ Program Code:
+// Program Code:
 
 #include<iostream>
 using namespace std;
