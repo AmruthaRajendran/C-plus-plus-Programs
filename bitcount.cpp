@@ -1,6 +1,6 @@
 // HackerEarth Problem
 
-\* Question:
+/* Question:
 The Singular Lust
 You are given a number N. The task is to find the number of set bits in that number.
 
